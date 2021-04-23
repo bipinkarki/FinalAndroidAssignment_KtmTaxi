@@ -1,0 +1,3 @@
+include ':ktmtaxiwear'
+include ':app'
+rootProject.name = "ktmTaxi"
