@@ -17,3 +17,4 @@ features
 -Add fragments to the activity
 -connection with wear os devices
 -Delete and update the bookings
+-Sensors embedded light, proximity and more.
