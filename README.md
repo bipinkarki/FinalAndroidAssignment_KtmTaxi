@@ -1,5 +1,5 @@
 # finalassignment-bipinkarki
-finalassignment-bipinkarki created by GitHub Classroom
+
 
 App to Book taxi Advance
  ktmTaxi  is the app where users can easily book the destination to go in advance .
